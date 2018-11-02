@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToPhoneListener</string>
+    <string name="tip">请输入监控者手机号码：</string>
+    <string name="funcation2_text">开启去电监控功能</string>
+</resources>
